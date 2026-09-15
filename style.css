@@ -1,0 +1,28 @@
+/* Make the whole background nice and center the text */
+body {
+    background-color: #e0f7fa;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 100px;
+}
+
+/* Make the title look nice */
+h1 {
+    color: #006064;
+}
+
+/* Style the button to make it look clean */
+button {
+    background-color: #00838f;
+    color: white;
+    padding: 15px 30px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+/* Make the button change color slightly when your mouse hovers over it */
+button:hover {
+    background-color: #006064;
+}
